@@ -24,5 +24,4 @@ I am a recent double Master's graduate in Human-Computer Interaction and Design,
 - 🌟 I am currently enhancing my React and front-end engineering skills through personal projects.
 - 📧 You can always drop me a line at [kalamarafani@gmail.com](mailto:kalamarafani@gmail.com) —I'd love to chat!
 
-**Find me here**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fkalamara)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/fkalamara)
