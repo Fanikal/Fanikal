@@ -17,10 +17,12 @@ I am a recent double Master's graduate in Human-Computer Interaction and Design,
 
 **I am actively seeking opportunities in areas closely aligned with Front-end or Full-Stack Development, UX/UI design, or Product Design. My goal is to apply my technical skills and design expertise to build innovative, user-friendly solutions that allow me to learn and grow, all while making a meaningful impact in people's lives.**
 
-- 💻 During my nearly seven-year academic journey, I have developed a variety of projects that span the entire spectrum of the development process. From design using Figma to development in Java, Python, and JavaScript, as well as creating engaging games with Unity and JavaFX, and building mobile applications with Android Studio and Java, I have learned a great deal and continue to grow with each project I undertake.
-- 🌱 I recently participated in the EIT Digital Summer School in Rennes, focused on “Unfolding Sustainability through Innovative Green Digital Solutions”. There, I co-developed the idea of “Processing Pals" - an online platform that revolutionizes computing accessibility worldwide by connecting users in need of computing power with providers who have idle resources - and won the award for the best entrepreneurial team.
-- 🚀 I am familiar with development environments like VSCode and Android Studio.
-- ✨ In my free time, I love traveling, reading, and practicing ballet, pole, or aerial dancing.
+- During my nearly seven-year academic journey, I have developed a variety of projects that span the entire spectrum of the development process. From design using Figma to development in Java, Python, and JavaScript, as well as creating engaging games with Unity and JavaFX, and building mobile applications with Android Studio and Java, I have learned a great deal and continue to grow with each project I undertake.
+- I recently participated in the EIT Digital Summer School in Rennes, focused on “Unfolding Sustainability through Innovative Green Digital Solutions”. There, I co-developed the idea of “Processing Pals" - an online platform that revolutionizes computing accessibility worldwide by connecting users in need of computing power with providers who have idle resources - and won the award for the best entrepreneurial team.
+- I am familiar with development environments like VSCode and Android Studio.
+
+A few more things about me:
+- ✨ In my free time, I love traveling, reading, and practicing ballet, pole, or aerial dancing. 
 - 🌟 I am currently enhancing my React and front-end engineering skills through personal projects.
 - 📧 You can always drop me a line at [kalamarafani@gmail.com](mailto:kalamarafani@gmail.com) —I'd love to chat!
 
